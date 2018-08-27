@@ -9,15 +9,19 @@ Contributions are always welcome!
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
-* [Demos](#demos)
-* [Sample Projects](#sample-projects)
-* [Extensions](#extensions)
-* [Libraries](#libraries)
+* [Wallets](#wallets)
+* [Explorer](#explorer)
+* [Exchanges](#exchanges)
+* [Auto Exchanges](#auto-exchanges)
+* [Bill Service](#bill-service)
+* [Games](#games)
 * [Videos](#videos)
 * [Articles](#articles)
 * [Podcasts](#podcasts)
-* [Tooling](#tooling)
+* [Tools](#tools)
 * [Community](#community)
+* [Telegram Channels](#telegram-channels)
+* [Pools](#pools)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
 
@@ -34,24 +38,41 @@ All script is provided AS IS with no support or warranties.
 ## General
 * [Bitsend Webpage](https://bitsend.info/) Bitsend BSD Webpage with all Infos about.
 
-## Demos
+## Wallets
+* [Bitsend QT Wallet](https://github.com/LIMXTEC/Bitsend/releases) Bitsend Github releases
+* [Coinomi Android Wallet](https://play.google.com/store/apps/details?id=com.coinomi.wallet) Coinomi Android Wallet
+* [Coinomi iOS Wallet](https://itunes.apple.com/app/coinomi-wallet/id1333588809) Coinomi iOS Wallet
 
-## Sample Projects
+## Explorer
+* [cryptoID](https://chainz.cryptoid.info/bsd/) Bitsend chainz Blockexplorer
 
-## Extensions
+## Exchanges
+* [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-BSD)
+* [Cryptopia](https://www.cryptopia.co.nz/Exchange/?market=BSD_BTC)
+* [Crypto-Bridge](https://wallet.crypto-bridge.org/market/BRIDGE.BSD_BRIDGE.BTC)
+* [Coinexchange](https://www.coinexchange.io/market/BSD/BTC)
 
-## Libraries
+## Auto Exchanges
+
+## Bill Service
+
+## Games
 
 ## Videos
 
 ## Articles
-  
+
 ## Podcasts
 
 ## Tools
-  
+
 ## Community
 * [Bitsend Twitter](https://twitter.com/bit_send) Bitsend Twitter feed.
+
+## Telegram Channels
+* [Telegram (English)](https://t.me/BSD_Bitsend) Bitsend Telegram Channel English
+
+## Pools
 
 ## Other Awesome Lists
 * [Bitcloud](https://github.com/LIMXTEC/awesome-bitcloud-btdx/) Bitcloud Awesome List
