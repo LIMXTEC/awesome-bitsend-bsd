@@ -40,6 +40,7 @@ All script is provided AS IS with no support or warranties.
 ```
 Network Magic = 0xA3, 0xD5, 0xC2, 0xF9
 Default Port = 8886
+RPC Port = 8800
 Seed = seed.mybitsend.com
 PUBKEY_ADDRESS = 102
 PUBKEY_ADDRESS_HEX = 0x66
@@ -49,7 +50,7 @@ SECRET_KEY (WIF) = 204
 SECRET_KEY_HEX (WIF) = 0xCC
 EXT_PUBLIC_KEY = 0x04, 0x88, 0xB2, 0x1E
 EXT_SECRET_KEY = 0x04, 0x88, 0xAD, 0xE4
-BIP32_PATH = m/44'/91'/0'/
+BIP44_PATH = m/44'/91'/0'/
 Genesis = 0x0000012e1b8843ac9ce8c18603658eaf8895f99d3f5e7e1b7b1686f35e3c087a
 MerkleRoot = 0xc0c4f68994b78c31b6c7d7a8a895b5a085857adfbb73699bcfe5a247a357df57
 ```
@@ -57,6 +58,7 @@ MerkleRoot = 0xc0c4f68994b78c31b6c7d7a8a895b5a085857adfbb73699bcfe5a247a357df57
 ```
 Network Magic = 0x0B, 0x11, 0x09, 0x07
 Default Port = 18333
+RPC Port = 18800
 Seed = 
 PUBKEY_ADDRESS = 111
 PUBKEY_ADDRESS_HEX = 0x6F
@@ -66,7 +68,7 @@ SECRET_KEY (WIF) = 196
 SECRET_KEY_HEX (WIF) = 0xEF
 EXT_PUBLIC_KEY = 0x04, 0x35, 0x87, 0xCF
 EXT_SECRET_KEY = 0x04, 0x35, 0x83, 0x94
-BIP32_PATH = m/44'/1'/0'/
+BIP44_PATH = m/44'/1'/0'/
 Genesis = 0x0000012e1b8843ac9ce8c18603658eaf8895f99d3f5e7e1b7b1686f35e3c087a
 MerkleRoot = 0xc0c4f68994b78c31b6c7d7a8a895b5a085857adfbb73699bcfe5a247a357df57
 ```
@@ -74,6 +76,7 @@ MerkleRoot = 0xc0c4f68994b78c31b6c7d7a8a895b5a085857adfbb73699bcfe5a247a357df57
 ```
 Network Magic = 0x4C, 0x1A, 0x2C, 0xAF
 Default Port = 8885
+RPC Port = 18332
 Seed =
 PUBKEY_ADDRESS = 111
 PUBKEY_ADDRESS_HEX = 0x6F
