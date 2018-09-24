@@ -103,7 +103,7 @@ All script is provided AS IS with no support or warranties.
 
 ## Tools
 * [Bsdmn.info](http://bsdmn.info) Bitsend Masternodes Info
-* [Bitsend Masternode Calculator] (https://www.mybitsend.com/masternode)
+* [Bitsend Masternode Calculator](https://www.mybitsend.com/masternode)
 * [ATHCoinIndex](https://athcoinindex.com/currencies/bitsend) Cryptocurrency ATH price & market capitalizations 
 * [Cryptonaut](https://www.cryptonaut.org) Easily track your cryptocurrency portfolio 
 * [GeneralBytes](https://github.com/GENERALBYTESCOM/batm_public) ATM Server / Client Software
