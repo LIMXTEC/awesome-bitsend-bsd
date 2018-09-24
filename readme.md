@@ -48,6 +48,7 @@ All script is provided AS IS with no support or warranties.
 * [Bitsend Whitepaper English](https://github.com/LIMXTEC/BitSend/releases/download/v0.14.0.5/Z.Whitepaper.E3.Juni.2018.pdf)
 
 ## Wallets
+* [Paperwallet](http://www.mybitsend.com/paper) Bitsend Paperwallet Generator
 * [Bitsend QT Wallet](https://github.com/LIMXTEC/Bitsend/releases) Bitsend Github releases
 * [Coinomi Android Wallet](https://play.google.com/store/apps/details?id=com.coinomi.wallet) Coinomi Android Wallet
 * [Coinomi iOS Wallet](https://itunes.apple.com/app/coinomi-wallet/id1333588809) Coinomi iOS Wallet
@@ -101,15 +102,20 @@ All script is provided AS IS with no support or warranties.
 * [zpool](https://www.zpool.ca)
 
 ## Tools
+* [Bsdmn.info](http://bsdmn.info) Bitsend Masternodes Info
+* [Bitsend Masternode Calculator] (https://www.mybitsend.com/masternode)
+* [ATHCoinIndex](https://athcoinindex.com/currencies/bitsend) Cryptocurrency ATH price & market capitalizations 
+* [Cryptonaut](https://www.cryptonaut.org) Easily track your cryptocurrency portfolio 
 * [GeneralBytes](https://github.com/GENERALBYTESCOM/batm_public) ATM Server / Client Software
 * [Mnemonic Code Converter](https://iancoleman.io/bip39) A web tool for converting BIP39 mnemonic codes
 
 ## Dockers Images
-* [Bitsend MN Docker](https://github.com/LIMXTEC/) Run a Bitend Masternode in a Docker Container [(Docker Image)](https://hub.docker.com/r/limxtec/bsd-masternode)
+* [Bitsend MN Docker](https://github.com/LIMXTEC/BSD-Masternode-Setup) Run a Bitend Masternode in a Docker Container [(Docker Image)](https://hub.docker.com/r/limxtec/bsd-masternode)
 * [Bitsend Seeder](https://github.com/LIMXTEC/bitsend-seeder) Seeder for the Bitsend BSD Network [(Docker Image)](https://hub.docker.com/r/limxtec/bitsend-seeder)
 
 ## Development Libraries
-* [Bitsend Python library](https://github.com/richardkiss/pycoin) Python-based Bitcoin and alt-coin utility library.
+* [pycoin](https://github.com/richardkiss/pycoin) Python-based Bitcoin and alt-coin utility library
+* [crptwav](https://github.com/StrongSquirrel/crptwav) Go library for address validation
 
 ## Network Details
 * MainNetwork Details
