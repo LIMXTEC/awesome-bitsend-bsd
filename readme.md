@@ -20,12 +20,13 @@ Contributions are always welcome!
 * [Videos](#videos)
 * [Articles](#articles)
 * [Podcasts](#podcasts)
-* [Tools](#tools)
-* [Dockers Images](#dockers-images)
-* [Development Libraries](#development-libraries)
 * [Community](#community)
 * [Telegram Channels](#telegram-channels)
 * [Pools](#pools)
+* [Tools](#tools)
+* [Dockers Images](#dockers-images)
+* [Development Libraries](#development-libraries)
+* [Network Details](#network-details)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
 
@@ -37,10 +38,80 @@ Bitsend is a Open Source and Peer to Peer Cryptocurreny with PoW and Masternode 
 ### Warning
 All script is provided AS IS with no support or warranties.
 
-### Requirements
-[ ]
+## General
+* [Bitsend Webpage](https://bitsend.info) Bitsend BSD Webpage with all Infos about.
+* [Bitsend ANN](https://bitcointalk.org/index.php?topic=1370307.0) Bitsend Bitcointalk Thread
+* [Bitsend Github](https://github.com/LIMXTEC/BitSend) Bitcore Github Repo
+* [CoinMarketCap](https://coinmarketcap.com/currencies/bitsend) Bitsend Ranking by Market Capitalization
 
-### Network Details
+## Whitepaper
+* [Bitsend Whitepaper English](https://github.com/LIMXTEC/BitSend/releases/download/v0.14.0.5/Z.Whitepaper.E3.Juni.2018.pdf)
+
+## Wallets
+* [Bitsend QT Wallet](https://github.com/LIMXTEC/Bitsend/releases) Bitsend Github releases
+* [Coinomi Android Wallet](https://play.google.com/store/apps/details?id=com.coinomi.wallet) Coinomi Android Wallet
+* [Coinomi iOS Wallet](https://itunes.apple.com/app/coinomi-wallet/id1333588809) Coinomi iOS Wallet
+
+## Explorer
+* [cryptoID](https://chainz.cryptoid.info/bsd) Bitsend chainz Blockexplorer
+
+## Exchanges
+* [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-BSD)
+* [CoinGather](https://www.coingather.com/exchange/BSD/BTC)
+* [Coinexchange](https://www.coinexchange.io/market/BSD/BTC)
+* [Cryptopia](https://www.cryptopia.co.nz/Exchange/?market=BSD_BTC)
+* [Crypto-Bridge](https://wallet.crypto-bridge.org/market/BRIDGE.BSD_BRIDGE.BTC)
+* [Litebit](https://www.litebit.eu/en/buy/bitsend)
+* [Livecoin](https://www.livecoin.net)
+* [Southxhchange](https://www.southxchange.com/Market/Book/BSD/BTC)
+* [Tradesatoshi](https://tradesatoshi.com/Exchange/?market=BSD_BTC)
+* [Upbit](https://upbit.com/home)
+
+## Auto Exchanges
+* [InstaSwap](https://instaswap.io) InstaSwap - Simple. Fast. Secure.
+
+## Buy with FIAT 
+* [Indiacoin](https://indacoin.com) Buy Cryptocurrency Instantly
+
+## Bill Service
+
+## Games
+
+## Videos
+[Bitsend Sponsor](https://animoto.com/play/1mbazCcQ8NiuGHm2JFPFbw) Bitsend #BTCM Germany Essen (2017)
+
+## Articles
+
+## Podcasts
+
+## Community
+* [Bitsend Twitter](https://twitter.com/bit_send) Bitsend Twitter feed
+* [Bitsend Forum](http://bitsend.info/forums) Bitsend Forum - Bitsendtalk
+* [Bitsend Discord](https://discord.gg/unG36w) Bitsend Discord Group
+
+## Telegram Channels
+* [Telegram (English)](https://t.me/BSD_Bitsend) Bitsend Telegram Channel English
+* [Telegram (German)](http://t.me/BSD_bitsend_DE) Bitsend Telegram Channel German
+* [Telegram (Russian)](http://t.me/bitsend) Bitsend Telegram Channel English
+
+## Pools
+* [ACPool](https://acpool.me)
+* [Suprnova](https://bsd.suprnova.cc)
+* [Omegapool](https://www.omegapool.cc)
+* [zpool](https://www.zpool.ca)
+
+## Tools
+* [GeneralBytes](https://github.com/GENERALBYTESCOM/batm_public) ATM Server / Client Software
+* [Mnemonic Code Converter](https://iancoleman.io/bip39) A web tool for converting BIP39 mnemonic codes
+
+## Dockers Images
+* [Bitsend MN Docker](https://github.com/LIMXTEC/) Run a Bitend Masternode in a Docker Container [(Docker Image)](https://hub.docker.com/r/limxtec/bsd-masternode)
+* [Bitsend Seeder](https://github.com/LIMXTEC/bitsend-seeder) Seeder for the Bitsend BSD Network [(Docker Image)](https://hub.docker.com/r/limxtec/bitsend-seeder)
+
+## Development Libraries
+* [Bitsend Python library](https://github.com/richardkiss/pycoin) Python-based Bitcoin and alt-coin utility library.
+
+## Network Details
 * MainNetwork Details
 ```
 Network Magic = 0xA3, 0xD5, 0xC2, 0xF9
@@ -95,81 +166,10 @@ Genesis = 0x0000012e1b8843ac9ce8c18603658eaf8895f99d3f5e7e1b7b1686f35e3c087a
 MerkleRoot = 0xc0c4f68994b78c31b6c7d7a8a895b5a085857adfbb73699bcfe5a247a357df57
 ```
 
-## General
-* [Bitsend Webpage](https://bitsend.info) Bitsend BSD Webpage with all Infos about.
-* [Bitsend ANN](https://bitcointalk.org/index.php?topic=1370307.0) Bitsend Bitcointalk Thread
-* [Bitsend Github](https://github.com/LIMXTEC/BitSend) Bitcore Github Repo
-* [CoinMarketCap](https://coinmarketcap.com/currencies/bitsend) Bitsend Ranking by Market Capitalization
-
-## Whitepaper
-* [Bitsend Whitepaper English](https://github.com/LIMXTEC/BitSend/releases/download/v0.14.0.5/Z.Whitepaper.E3.Juni.2018.pdf)
-
-## Wallets
-* [Bitsend QT Wallet](https://github.com/LIMXTEC/Bitsend/releases) Bitsend Github releases
-* [Coinomi Android Wallet](https://play.google.com/store/apps/details?id=com.coinomi.wallet) Coinomi Android Wallet
-* [Coinomi iOS Wallet](https://itunes.apple.com/app/coinomi-wallet/id1333588809) Coinomi iOS Wallet
-
-## Explorer
-* [cryptoID](https://chainz.cryptoid.info/bsd) Bitsend chainz Blockexplorer
-
-## Exchanges
-* [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-BSD)
-* [CoinGather](https://www.coingather.com/exchange/BSD/BTC)
-* [Coinexchange](https://www.coinexchange.io/market/BSD/BTC)
-* [Cryptopia](https://www.cryptopia.co.nz/Exchange/?market=BSD_BTC)
-* [Crypto-Bridge](https://wallet.crypto-bridge.org/market/BRIDGE.BSD_BRIDGE.BTC)
-* [Litebit](https://www.litebit.eu/en/buy/bitsend)
-* [Livecoin](https://www.livecoin.net)
-* [Southxhchange](https://www.southxchange.com/Market/Book/BSD/BTC)
-* [Tradesatoshi](https://tradesatoshi.com/Exchange/?market=BSD_BTC)
-* [Upbit](https://upbit.com/home)
-
-## Auto Exchanges
-* [InstaSwap](https://instaswap.io) InstaSwap - Simple. Fast. Secure.
-
-## Buy with FIAT 
-* [Indiacoin](https://indacoin.com) Buy Cryptocurrency Instantly
-
-## Bill Service
-
-## Games
-
-## Videos
-[Bitsend Sponsor](https://animoto.com/play/1mbazCcQ8NiuGHm2JFPFbw) Bitsend #BTCM Germany Essen (2017)
-
-## Articles
-
-## Podcasts
-
-## Tools
-* [GeneralBytes](https://github.com/GENERALBYTESCOM/batm_public) ATM Server / Client Software
-* [Mnemonic Code Converter](https://iancoleman.io/bip39) A web tool for converting BIP39 mnemonic codes
-
-## Dockers Images
-* [Bitsend MN Docker](https://github.com/LIMXTEC/) Bitsned Masternode Docker [(Docker Image)](https://hub.docker.com/r/limxtec/)
-* [Bitsend Seeder](https://github.com/LIMXTEC/bitsend-seeder) Seeder for the Bitsend BSD Network [(Docker Image)](https://hub.docker.com/r/limxtec/bitsend-seeder)
-
-## Development Libraries
-
-## Community
-* [Bitsend Twitter](https://twitter.com/bit_send) Bitsend Twitter feed.
-* [Bitsend Forum](http://bitsend.info/forums) Bitsend Forum - Bitsendtalk
-
-## Telegram Channels
-* [Telegram (English)](https://t.me/BSD_Bitsend) Bitsend Telegram Channel English
-* [Telegram (German)](http://t.me/BSD_bitsend_DE) Bitsend Telegram Channel German
-* [Telegram (Russian)](http://t.me/bitsend) Bitsend Telegram Channel English
-
-## Pools
-* [ACPool](https://acpool.me)
-* [Suprnova](https://bsd.suprnova.cc)
-* [Omegapool](https://www.omegapool.cc)
-* [zpool](https://www.zpool.ca)
-
 ## Other Awesome Lists
 * [Bitcloud](https://github.com/LIMXTEC/awesome-bitcloud-btdx) Bitcloud Awesome List
 * [Bitcore](https://github.com/LIMXTEC/awesome-bitcore-btx) Bitcore Awesome List
-* [Megacoin](https://github.com/LIMXTEC/awesome-megacoin-mec/) Megacoin Awesome List
+* [Megacoin](https://github.com/LIMXTEC/awesome-megacoin-mec) Megacoin Awesome List
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/LIMXTEC/awesome-bitsend-bsd/blob/master/contributing.md) for details.
