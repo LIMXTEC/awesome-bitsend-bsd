@@ -123,7 +123,7 @@ All script is provided AS IS with no support or warranties.
 Network Magic = 0xA3, 0xD5, 0xC2, 0xF9
 Default Port = 8886
 RPC Port = 8800
-Seed = seed.mybitsend.com
+Seed = seed.mybitsend.com, seed1.mybitsend.com
 PUBKEY_ADDRESS = 102
 PUBKEY_ADDRESS_HEX = 0x66
 SCRIPT_ADDRESS = 5
