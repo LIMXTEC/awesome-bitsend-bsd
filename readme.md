@@ -87,9 +87,12 @@ All script is provided AS IS with no support or warranties.
 
 ## Community
 * [Bitsend Twitter](https://twitter.com/bit_send) Bitsend Twitter feed
-* [Bitsend Forum](http://bitsend.info/forums) Bitsend Forum - Bitsendtalk
+* [Bitsend Reddit](https://www.reddit.com/r/Bitsend) Bitcore Reddit
 * [Bitsend Discord](https://discord.gg/DNfazhS) Bitsend Discord Group
-* [Bitsend Faucet](https://www.mybitsend.com/#faucet)
+* [Bitsend Forum](http://bitsend.info/forums) Bitsend Forum - Bitsendtalk
+* [Bitcoin Garden Forum](https://bitcoingarden.org/forum/index.php?topic=6419.0) Bitsend Forum @Bitcoin Garden
+* [Bitcoinfo.ru Forum (Russian)](http://forum.bitcoinfo.ru/viewtopic.php?f=13&t=12889) Bitsend Forum @Bitcoinfo.ru
+* [Bitsend Faucet](https://www.mybitsend.com/#faucet) 
 
 ## Telegram Channels
 * [Telegram (English)](https://t.me/BSD_Bitsend) Bitsend Telegram Channel English
