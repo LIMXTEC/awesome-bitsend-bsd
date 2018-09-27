@@ -58,7 +58,7 @@ All script is provided AS IS with no support or warranties.
 
 ## Exchanges
 * [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-BSD)
-* [CoinGather](https://www.coingather.com/exchange/BSD/BTC)
+* [BITSTEN](https://bitsten.com/exchange/bsd_btc)
 * [Coinexchange](https://www.coinexchange.io/market/BSD/BTC)
 * [Cryptopia](https://www.cryptopia.co.nz/Exchange/?market=BSD_BTC)
 * [Crypto-Bridge](https://wallet.crypto-bridge.org/market/BRIDGE.BSD_BRIDGE.BTC)
@@ -72,7 +72,7 @@ All script is provided AS IS with no support or warranties.
 * [InstaSwap](https://instaswap.io) InstaSwap - Simple. Fast. Secure.
 
 ## Buy with FIAT 
-* [Indiacoin](https://indacoin.com) Buy Cryptocurrency Instantly
+* [Indacoin](https://indacoin.com) Buy Cryptocurrency Instantly
 
 ## Bill Service
 
@@ -88,7 +88,8 @@ All script is provided AS IS with no support or warranties.
 ## Community
 * [Bitsend Twitter](https://twitter.com/bit_send) Bitsend Twitter feed
 * [Bitsend Forum](http://bitsend.info/forums) Bitsend Forum - Bitsendtalk
-* [Bitsend Discord](https://discord.gg/unG36w) Bitsend Discord Group
+* [Bitsend Discord](https://discord.gg/DNfazhS) Bitsend Discord Group
+* [Bitsend Faucet](https://www.mybitsend.com/#faucet)
 
 ## Telegram Channels
 * [Telegram (English)](https://t.me/BSD_Bitsend) Bitsend Telegram Channel English
