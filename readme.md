@@ -15,6 +15,7 @@ Contributions are always welcome!
 * [Exchanges](#exchanges)
 * [Auto Exchanges](#auto-exchanges)
 * [Buy with FIAT](#buy-with-fiat)
+* [Market Info](#market-info)
 * [Bill Service](#bill-service)
 * [Games](#games)
 * [Videos](#videos)
@@ -23,7 +24,7 @@ Contributions are always welcome!
 * [Community](#community)
 * [Telegram Channels](#telegram-channels)
 * [Pools](#pools)
-* [Tools](#tools)
+* [Tools and Services](#tools-and-services)
 * [Dockers Images](#dockers-images)
 * [Development Libraries](#development-libraries)
 * [Network Details](#network-details)
@@ -42,7 +43,6 @@ All script is provided AS IS with no support or warranties.
 * [Bitsend Webpage](https://bitsend.info) Bitsend BSD Webpage with all Infos about.
 * [Bitsend ANN](https://bitcointalk.org/index.php?topic=1370307.0) Bitsend Bitcointalk Thread
 * [Bitsend Github](https://github.com/LIMXTEC/BitSend) Bitcore Github Repo
-* [CoinMarketCap](https://coinmarketcap.com/currencies/bitsend) Bitsend Ranking by Market Capitalization
 
 ## Whitepaper
 * [Bitsend Whitepaper English](https://github.com/LIMXTEC/BitSend/releases/download/v0.14.0.5/Z.Whitepaper.E3.Juni.2018.pdf)
@@ -73,6 +73,13 @@ All script is provided AS IS with no support or warranties.
 
 ## Buy with FIAT 
 * [Indacoin](https://indacoin.com) Buy Cryptocurrency Instantly
+
+## Market Info
+* [CoinMarketCap](https://coinmarketcap.com/currencies/bitsend) Bitsend Ranking by Market Capitalization
+* [WorldCoinIndex](https://www.worldcoinindex.com/coin/bitsend) Bitsend price index and market cap
+* [CryptoCompare](https://www.cryptocompare.com/coins/bsd/overview/USD) Live Bitsend prices, trades and volumes
+* [ATHCoinIndex](https://athcoinindex.com/currencies/bitcore) Bitsend ATH price & market capitalizations 
+* [Bsdmn.info](http://bsdmn.info) Bitsend Masternodes Info
 
 ## Bill Service
 
@@ -105,14 +112,12 @@ All script is provided AS IS with no support or warranties.
 * [Omegapool](https://www.omegapool.cc)
 * [zpool](https://www.zpool.ca)
 
-## Tools
+## Tools and Services
 * [Masternode.live](https://masternode.live/currencies/BSD/BitSend) Bitsend Masternode - ROI, Setup, Invest
-* [Bsdmn.info](http://bsdmn.info) Bitsend Masternodes Info
-* [Bitsend Masternode Calculator](https://www.mybitsend.com/masternode)
-* [ATHCoinIndex](https://athcoinindex.com/currencies/bitsend) Cryptocurrency ATH price & market capitalizations 
-* [Cryptonaut](https://www.cryptonaut.org) Easily track your cryptocurrency portfolio 
+* [Bitsend Masternode Calculator](https://www.mybitsend.com/masternode) BitSend Masternode Calculator. Invest and earning overview.
 * [GeneralBytes](https://github.com/GENERALBYTESCOM/batm_public) ATM Server / Client Software
 * [Mnemonic Code Converter](https://iancoleman.io/bip39) A web tool for converting BIP39 mnemonic codes
+* [Cryptonaut](https://www.cryptonaut.org) Easily track your cryptocurrency portfolio 
 
 ## Dockers Images
 * [Bitsend MN Docker](https://github.com/LIMXTEC/BSD-Masternode-Setup) Run a Bitend Masternode in a Docker Container [(Docker Image)](https://hub.docker.com/r/limxtec/bsd-masternode)
