@@ -106,6 +106,7 @@ All script is provided AS IS with no support or warranties.
 * [zpool](https://www.zpool.ca)
 
 ## Tools
+* [Masternode.live](https://masternode.live/currencies/BSD/BitSend) Bitsend Masternode - ROI, Setup, Invest
 * [Bsdmn.info](http://bsdmn.info) Bitsend Masternodes Info
 * [Bitsend Masternode Calculator](https://www.mybitsend.com/masternode)
 * [ATHCoinIndex](https://athcoinindex.com/currencies/bitsend) Cryptocurrency ATH price & market capitalizations 
