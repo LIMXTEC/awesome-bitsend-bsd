@@ -16,6 +16,9 @@ Contributions are always welcome!
 * [Auto Exchanges](#auto-exchanges)
 * [Buy with FIAT](#buy-with-fiat)
 * [Market Info](#market-info)
+* [Coin Info](#coin-info)
+* [Masternode Info](#masternode-info)
+* [Masternode Hosting](#masternode-hosting)
 * [Bill Service](#bill-service)
 * [Games](#games)
 * [Videos](#videos)
@@ -80,6 +83,17 @@ All script is provided AS IS with no support or warranties.
 * [CryptoCompare](https://www.cryptocompare.com/coins/bsd/overview/USD) Live Bitsend prices, trades and volumes
 * [ATHCoinIndex](https://athcoinindex.com/currencies/bitcore) Bitsend ATH price & market capitalizations 
 * [Bsdmn.info](http://bsdmn.info) Bitsend Masternodes Info
+
+## Coin Info
+* [YouStake.to](https://youstake.to) Bitsend Coin Info
+
+## Masternode Info
+* [MasterNodes.online](https://masternodes.online/currencies/BSD/)
+* [MasterNode.live](https://masternode.live/currencies/BSD/Bitsend)
+
+## Masternode Hosting
+* [NodeHub.io](https://nodehub.io/) 
+* [01vps.net](https://01vps.net)
 
 ## Bill Service
 
