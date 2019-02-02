@@ -31,6 +31,7 @@ Contributions are always welcome!
 * [Dockers Images](#dockers-images)
 * [Development Libraries](#development-libraries)
 * [Network Details](#network-details)
+* [SLIP and BIP Details](#slip-and-bip-details)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
 
@@ -42,13 +43,16 @@ Bitsend is a Open Source and Peer to Peer Cryptocurreny with PoW and Masternode 
 ### Warning
 All script is provided AS IS with no support or warranties.
 
+
 ## General
 * [Bitsend Webpage](https://bitsend.info) Bitsend BSD Webpage with all Infos about.
 * [Bitsend ANN](https://bitcointalk.org/index.php?topic=1370307.0) Bitsend Bitcointalk Thread
 * [Bitsend Github](https://github.com/LIMXTEC/BitSend) Bitcore Github Repo
 
+
 ## Whitepaper
 * [Bitsend Whitepaper English](https://github.com/LIMXTEC/BitSend/releases/download/v0.14.0.5/Z.Whitepaper.E3.Juni.2018.pdf)
+
 
 ## Wallets
 * [Paperwallet](http://www.mybitsend.com/paper) Bitsend Paperwallet Generator
@@ -56,8 +60,10 @@ All script is provided AS IS with no support or warranties.
 * [Coinomi Android Wallet](https://play.google.com/store/apps/details?id=com.coinomi.wallet) Coinomi Android Wallet
 * [Coinomi iOS Wallet](https://itunes.apple.com/app/coinomi-wallet/id1333588809) Coinomi iOS Wallet
 
+
 ## Explorer
 * [cryptoID](https://chainz.cryptoid.info/bsd) Bitsend chainz Blockexplorer
+
 
 ## Exchanges
 * [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-BSD)
@@ -71,11 +77,14 @@ All script is provided AS IS with no support or warranties.
 * [Tradesatoshi](https://tradesatoshi.com/Exchange/?market=BSD_BTC)
 * [Upbit](https://upbit.com/home)
 
+
 ## Auto Exchanges
 * [InstaSwap](https://instaswap.io) InstaSwap - Simple. Fast. Secure.
 
+
 ## Buy with FIAT 
 * [Indacoin](https://indacoin.com) Buy Cryptocurrency Instantly
+
 
 ## Market Info
 * [CoinMarketCap](https://coinmarketcap.com/currencies/bitsend) Bitsend Ranking by Market Capitalization
@@ -84,27 +93,36 @@ All script is provided AS IS with no support or warranties.
 * [ATHCoinIndex](https://athcoinindex.com/currencies/bitcore) Bitsend ATH price & market capitalizations 
 * [Bsdmn.info](http://bsdmn.info) Bitsend Masternodes Info
 
+
 ## Coin Info
 * [YouStake.to](https://youstake.to) Bitsend Coin Info
+
 
 ## Masternode Info
 * [MasterNodes.online](https://masternodes.online/currencies/BSD/)
 * [MasterNode.live](https://masternode.live/currencies/BSD/Bitsend)
 
+
 ## Masternode Hosting
 * [NodeHub.io](https://nodehub.io/) 
 * [01vps.net](https://01vps.net)
 
+
 ## Bill Service
 
+
 ## Games
+
 
 ## Videos
 [Bitsend Sponsor](https://animoto.com/play/1mbazCcQ8NiuGHm2JFPFbw) Bitsend #BTCM Germany Essen (2017)
 
+
 ## Articles
 
+
 ## Podcasts
+
 
 ## Community
 * [Bitsend Twitter](https://twitter.com/bit_send) Bitsend Twitter feed
@@ -115,16 +133,19 @@ All script is provided AS IS with no support or warranties.
 * [Bitcoinfo.ru Forum (Russian)](http://forum.bitcoinfo.ru/viewtopic.php?f=13&t=12889) Bitsend Forum @Bitcoinfo.ru
 * [Bitsend Faucet](https://www.mybitsend.com/#faucet) 
 
+
 ## Telegram Channels
 * [Telegram (English)](https://t.me/BSD_Bitsend) Bitsend Telegram Channel English
 * [Telegram (German)](http://t.me/BSD_bitsend_DE) Bitsend Telegram Channel German
 * [Telegram (Russian)](http://t.me/bitsend) Bitsend Telegram Channel English
+
 
 ## Pools
 * [ACPool](https://acpool.me)
 * [Suprnova](https://bsd.suprnova.cc)
 * [Omegapool](https://www.omegapool.cc)
 * [zpool](https://www.zpool.ca)
+
 
 ## Tools and Services
 * [Masternode.live](https://masternode.live/currencies/BSD/BitSend) Bitsend Masternode - ROI, Setup, Invest
@@ -133,13 +154,16 @@ All script is provided AS IS with no support or warranties.
 * [Mnemonic Code Converter](https://iancoleman.io/bip39) A web tool for converting BIP39 mnemonic codes
 * [Cryptonaut](https://www.cryptonaut.org) Easily track your cryptocurrency portfolio 
 
+
 ## Dockers Images
 * [Bitsend MN Docker](https://github.com/LIMXTEC/BSD-Masternode-Setup) Run a Bitend Masternode in a Docker Container [(Docker Image)](https://hub.docker.com/r/limxtec/bsd-masternode)
 * [Bitsend Seeder](https://github.com/LIMXTEC/bitsend-seeder) Seeder for the Bitsend BSD Network [(Docker Image)](https://hub.docker.com/r/limxtec/bitsend-seeder)
 
+
 ## Development Libraries
 * [pycoin](https://github.com/richardkiss/pycoin) Python-based Bitcoin and alt-coin utility library
 * [crptwav](https://github.com/StrongSquirrel/crptwav) Go library for address validation
+
 
 ## Network Details
 * MainNetwork Details
@@ -206,10 +230,17 @@ Genesis = 0x00000d500e703fb0d5efc44e6987e2b479bef162c0934d95cdcb5a9808e8d2db
 MerkleRoot = 0xc0c4f68994b78c31b6c7d7a8a895b5a085857adfbb73699bcfe5a247a357df57
 ```
 
+## SLIP and BIP Details
+* [Bitcore coinparams](https://github.com/dan-da/coinparams/blob/master/coins/btx.json) Specific information such as key prefixes, DNS seeds, bip32, bip44, etc, available in JSON format.
+* [Satoshilabs SLIP132/BIP-0032](https://github.com/satoshilabs/slips/blob/master/slip-0132.md#registered-hd-version-bytes) Registered HD version bytes, e.g. xpub, ypub, zpub, Ypub, Zpub
+* [Satoshilabs SLIP-0044/BIP-0044](https://github.com/satoshilabs/slips/blob/master/slip-0044.md) BIP-0044 defines a logical hierarchy for deterministic wallets.
+
+
 ## Other Awesome Lists
 * [Bitcloud](https://github.com/LIMXTEC/awesome-bitcloud-btdx) Bitcloud Awesome List
 * [Bitcore](https://github.com/LIMXTEC/awesome-bitcore-btx) Bitcore Awesome List
 * [Megacoin](https://github.com/LIMXTEC/awesome-megacoin-mec) Megacoin Awesome List
+
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/LIMXTEC/awesome-bitsend-bsd/blob/master/contributing.md) for details.
