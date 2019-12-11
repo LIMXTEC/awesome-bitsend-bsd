@@ -176,6 +176,7 @@ All script is provided AS IS with no support or warranties.
 * MainNetwork Details
 ```
 Network Magic = 0xA3, 0xD5, 0xC2, 0xF9
+MessageMagic = "Bitsend Signed Message:\n"
 Default Port = 8886
 RPC Port = 8800
 Seed = seed.mybitsend.com, seed1.mybitsend.com
