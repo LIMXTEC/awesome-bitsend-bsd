@@ -46,7 +46,7 @@ All script is provided AS IS with no support or warranties.
 
 
 ## General
-* [Bitsend Webpage](https://bitsend.info) Bitsend BSD Webpage with all Infos about.
+* [Bitsend Webpage](https://bitsend.cc) Bitsend BSD Webpage with all Infos about.
 * [Bitsend ANN](https://bitcointalk.org/index.php?topic=1370307.0) Bitsend Bitcointalk Thread
 * [Bitsend Github](https://github.com/LIMXTEC/BitSend) Bitcore Github Repo
 
